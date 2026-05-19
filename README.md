@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gangster-prayer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Gangster Prayer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gangster-prayer/) |
+| **Get License** | [Get License For Gangster Prayer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gangster-prayer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c98305b4735db54675829dd62b6a9a44d963221a849ae8c1b77861f646edc498` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
