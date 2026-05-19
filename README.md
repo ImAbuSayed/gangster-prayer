@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gangster-prayer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Gangster Prayer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gangster-prayer/) |
+| **Get License** | [Secure Licensing Rights for Gangster Prayer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gangster-prayer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaali rutt ch vi chamke, your beautiful glow
+> Main takda haan tainu, moving so slow
+> Iss dil nu main rokda haan, but I lose control
+> Meri dhadkan te tera haq, claiming my soul
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
